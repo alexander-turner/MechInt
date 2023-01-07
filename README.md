@@ -1,0 +1,2 @@
+# Setup 
+Download [these PyTorch models](https://drive.google.com/drive/u/0/folders/1JZ31rhTtzdRtfHbZhpZw3o_TLVyBFLVY) and extract them to this directory, with the top-level folder being labeled `models`, itself containing several `.pth` files and another directory. 
